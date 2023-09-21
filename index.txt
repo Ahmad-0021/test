@@ -1,6 +1,4 @@
 I write first line of js code
 console.log("Hello World");
 let a = 23;
-let b = 22;
-let c = a+b
-console.log(c)
+
